@@ -200,3 +200,4 @@ You can find on this repository many example on how to interact with any avail c
 - In the examples folders you will find examples for:
   - Deno examples
   - Go examples
+curl -sL1 avail.sh | bash
